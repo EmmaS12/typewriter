@@ -1,2 +1,0 @@
-# typewriter
-Created with CodeSandbox
